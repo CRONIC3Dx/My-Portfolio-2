@@ -1,0 +1,46 @@
+h1 {
+    color: white;
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: #810074;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #810074;
+}
+
+p,h2{
+    text-align: center;
+}
+
+h1{
+
+    color: #11FFFF;
+}
+
+body{
+
+    color: #8A48FF ;
+}
+
